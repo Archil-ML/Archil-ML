@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @LucipherVenus
-- 👀 I’m interested in Math, Computer Science, Data Science, Physics, Electrical Engineering.
-- 🌱 I’m currently learning Advanced Mathematics, Computer Science, Data Science, Fundamental Math.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me archil.zhvania@gmail.com
-
-<!---
-LucipherVenus/LucipherVenus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I am Archil. I am an AI developer with a background in mathematics, computer science, and data science.
+- I am working on machine learning projects as well as AI research.
+- I mainly work in Python and R.
