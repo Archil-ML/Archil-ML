@@ -1,3 +1,4 @@
 - Hi, I am Archil. I am an AI developer with a background in mathematics, computer science, and data science.
 - I am working on machine learning projects as well as AI research.
 - I mainly work in Python and R.
+- Time after time I record and publish educational videos about AI for free, you can check them on my YouTube channel (link incoming shortly).
