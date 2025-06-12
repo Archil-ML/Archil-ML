@@ -1,3 +1,4 @@
 - Hi, I am Archil. I am an AI researcher with a background in mathematics, computer science, and data science.
 - I am working on machine learning projects as well as AI research.
+- Willing to contribute to AI/ML research projects related or applied to neuroscience/biology/chemistry.
 - Time after time I record and publish educational videos about AI for free, you can check them on my YouTube channel (link incoming shortly).
